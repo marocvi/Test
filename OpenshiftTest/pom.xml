@@ -24,6 +24,6 @@
     
   </dependencies>
   <build>
-    <finalName>OpenshiftTest</finalName>
+    <finalName>ROOT</finalName>
   </build>
 </project>
